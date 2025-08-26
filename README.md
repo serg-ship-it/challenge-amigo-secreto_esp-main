@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="200" alt="Alura Logo" src="https://github.com/user-attachments/assets/919c49ef-9a29-48e1-aeed-58eff98ef336">
+  <img width="400" height="250" alt="Alura Logo" src="https://github.com/user-attachments/assets/919c49ef-9a29-48e1-aeed-58eff98ef336">
 </p>
 
 <h1 align="center"> Challenge de Amigo Secreto </h1>
