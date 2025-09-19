@@ -8,6 +8,7 @@ function agregarAmigo(){
         listaAmigos.push(amigoSecreto);
         recorrerLista();
         limpiarCaja()
+        return;
     }
 
     console.log(listaAmigos)
@@ -36,5 +37,6 @@ function limpiarCaja(){
 }
 
 const listaAmigos = [];
+
 
 agregarAmigo();
